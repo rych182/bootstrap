@@ -5,6 +5,8 @@
 </p>
 
 <h3 align="center">Bootstrap</h3>
+<p>Aquí no más de mamón viendo que chingados modifico o rompo xD</p>
+<hr>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
